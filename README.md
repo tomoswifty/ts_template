@@ -12,7 +12,7 @@ ts_template
     ├── ts_tex_sample.pdf
     └── ts_tex_sample.tex
 ```
-## Hoow to use
+## How to use
 First clone this repository and rename the file before creating documtent.
 
 はじめに，このリポジトリをcloneして，ファイル名を変更してから文書を作成してください．
